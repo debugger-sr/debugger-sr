@@ -14,7 +14,7 @@
   color:inherit;
   transition:transform .12s ease, box-shadow .12s ease;
 }
-.repo-card:hover {box-shadow:0 10px 30px rgba(12,22,26,0.10); transform:translateY(-4px);}
+.repo-card:hover {box-shadow:0 10px 30px rgba(12,22,26,0.10); transform:translateY(-4px;)}
 .repo-logo {width:96px; flex:0 0 96px;}
 .skill-logo {width:96px; margin-right:12px; vertical-align:middle;}
 .project-placeholder {width:100%; max-width:720px; border-radius:8px; margin-top:12px; display:block;}
@@ -70,7 +70,7 @@ Below are core skills and tools with small SVG logos (place logos in `/assets/lo
 The layout below is designed to behave like repo tiles. Each card is a direct link to the repo URL on GitHub (clicking anywhere on the tile will redirect to the repository in the same tab).
 
 <div class="repo-grid">
-  <a href="https://github.com/debugger-sr/Rent-Prediction" class="repo-card">
+  <a href="/debugger-sr/Rent-Prediction" class="repo-card">
     <div style="display:flex;align-items:center;gap:12px;">
       <img src="assets/repo-logos/rent-prediction.svg" alt="Rent-Prediction" class="repo-logo" />
       <div style="flex:1;">
@@ -84,7 +84,7 @@ The layout below is designed to behave like repo tiles. Each card is a direct li
     </div>
   </a>
 
-  <a href="https://github.com/debugger-sr/Stock_prediction_Using-ANN" class="repo-card">
+  <a href="/debugger-sr/Stock_prediction_Using-ANN" class="repo-card">
     <div style="display:flex;align-items:center;gap:12px;">
       <img src="assets/repo-logos/stock-prediction.svg" alt="Stock Prediction" class="repo-logo" />
       <div style="flex:1;">
@@ -98,7 +98,7 @@ The layout below is designed to behave like repo tiles. Each card is a direct li
     </div>
   </a>
 
-  <a href="https://github.com/debugger-sr/task-tracker-app" class="repo-card">
+  <a href="/debugger-sr/task-tracker-app" class="repo-card">
     <div style="display:flex;align-items:center;gap:12px;">
       <img src="assets/repo-logos/task-tracker-app.svg" alt="task-tracker-app" class="repo-logo" />
       <div style="flex:1;">
@@ -112,7 +112,7 @@ The layout below is designed to behave like repo tiles. Each card is a direct li
     </div>
   </a>
 
-  <a href="https://github.com/debugger-sr/Venkata_Portfolio" class="repo-card">
+  <a href="/debugger-sr/Venkata_Portfolio" class="repo-card">
     <div style="display:flex;align-items:center;gap:12px;">
       <img src="assets/repo-logos/venkata-portfolio.svg" alt="Venkata Portfolio" class="repo-logo" />
       <div style="flex:1;">
@@ -126,7 +126,7 @@ The layout below is designed to behave like repo tiles. Each card is a direct li
     </div>
   </a>
 
-  <a href="https://github.com/debugger-sr/Face-and-Eye-Detection-Using-OpenCV" class="repo-card">
+  <a href="/debugger-sr/Face-and-Eye-Detection-Using-OpenCV" class="repo-card">
     <div style="display:flex;align-items:center;gap:12px;">
       <img src="assets/repo-logos/face-eye-detection.svg" alt="Face and Eye Detection" class="repo-logo" />
       <div style="flex:1;">
