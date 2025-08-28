@@ -1,93 +1,156 @@
+# Venkat Sai
 
-<!-- header: animated greeting -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1000&color=0A84FF&width=800&lines=Hi%2C%20I'm%20debugger-sr!%20👋;Full-stack%20engineer%20%7C%20DevOps%20enthusiast%20%7C%20Open%20source%20lover" alt="typing" />
-</p>
+Hi — I'm Venkat. I design and build production-ready ML systems, scalable ETL pipelines, and analytics products that convert data into measurable business outcomes. I focus on reliability, maintainability, and measurable impact — shipping models and pipelines that run in production and delight stakeholders.
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=debugger-sr"><img src="https://komarev.com/ghpvc/?username=debugger-sr&color=0e75ff" alt="profile views" /></a>
-  <!-- Social links: replace # with your links -->
-  <a href="https://github.com/debugger-sr" title="GitHub"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge" alt="Twitter" /></a>
-  <a href="mailto:you@example.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" alt="Email" /></a>
-</p>
+Contact: [venkatasaichag@gmail.com](mailto:venkatasaichag@gmail.com) • LinkedIn: [add-your-linkedin-here](#)
 
 ---
 
-<!-- quick summary -->
-### About Me
-I build reliable, scalable web applications and developer tools. I enjoy automating workflows, improving CI/CD, and contributing to open source.  
-- 🔭 I’m currently working on: <strong>your-current-project</strong> — a one-line description
-- 🌱 I’m learning: <strong>fastify / observability / infra as code</strong>
-- 👯 I’m open to: mentoring and collaborating on backend and DevOps projects
-- 💬 Ask me about: Node.js, React, Docker, Kubernetes, GitHub Actions
+## Quick overview
+- Role: Data Scientist • ML Engineer • Data Engineer • Analytics Engineer  
+- Focus: production ML, streaming & batch pipelines, dbt-enabled analytics, and BI that drives decisions.
 
 ---
 
-<!-- skills: badges -->
-### Tech & Tools
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JS" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TS" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat-square" alt="Node" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat-square" alt="K8s" /> <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=fff&style=flat-square" alt="Postgres" />
+## Skills & Tools
+Below are core skills and tools with small SVG logos (place logos in `/assets/logos/` if you swap them):
 
----
-
-<!-- featured projects: replace links and descriptions -->
-### Featured Projects
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/debugger-sr/project-one">
-        <img src="https://raw.githubusercontent.com/debugger-sr/project-one/main/.github/preview.png" alt="project-one" width="220" />
-        <h4>project-one</h4>
-      </a>
-      <p>Short tagline — what it does (Node, Docker)</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/debugger-sr/project-two">
-        <img src="https://raw.githubusercontent.com/debugger-sr/project-two/main/.github/preview.png" alt="project-two" width="220" />
-        <h4>project-two</h4>
-      </a>
-      <p>Short tagline — what it does (React, Next.js)</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/debugger-sr/project-three">
-        <img src="https://raw.githubusercontent.com/debugger-sr/project-three/main/.github/preview.png" alt="project-three" width="220" />
-        <h4>project-three</h4>
-      </a>
-      <p>Short tagline — what it does (CLI, Automation)</p>
-    </td>
-  </tr>
-</table>
-
-> Tip: add a small preview image at .github/preview.png in each repo to make these cards render nicely.
-
----
-
-<!-- dynamic github stats -->
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=debugger-sr&show_icons=true&theme=radical&count_private=true" alt="debugger-sr's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugger-sr&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debugger-sr&theme=radical" alt="GitHub streak" />
+<p>
+  <img src="assets/logos/python.svg" alt="Python" width="64" style="margin-right:10px; vertical-align:middle;" />
+  <img src="assets/logos/sql.svg" alt="SQL" width="64" style="margin-right:10px; vertical-align:middle;" />
+  <img src="assets/logos/spark.svg" alt="PySpark" width="64" style="margin-right:10px; vertical-align:middle;" />
+  <img src="assets/logos/dbt.svg" alt="dbt" width="64" style="margin-right:10px; vertical-align:middle;" />
+  <img src="assets/logos/airflow.svg" alt="Airflow" width="64" style="margin-right:10px; vertical-align:middle;" />
+  <img src="assets/logos/kafka.svg" alt="Kafka" width="64" style="margin-right:10px; vertical-align:middle;" />
+  <img src="assets/logos/snowflake.svg" alt="Snowflake" width="64" style="margin-right:10px; vertical-align:middle;" />
+  <img src="assets/logos/docker.svg" alt="Docker" width="64" style="margin-right:10px; vertical-align:middle;" />
+  <img src="assets/logos/k8s.svg" alt="Kubernetes" width="64" style="margin-right:10px; vertical-align:middle;" />
+  <img src="assets/logos/mlflow.svg" alt="MLflow" width="64" style="margin-right:10px; vertical-align:middle;" />
 </p>
 
 ---
 
-### Blog & Talks
-- Blog: [your-site.example/blog](https://your-site.example/blog) — short description of what you write about  
-- Talks: "Title of talk" — event, year (link to slides/video)
+## Current project
+**Real-time Fraud Detection (Production)**  
+- Stack: Kafka → Spark Structured Streaming → XGBoost → Docker → Seldon  
+- Status: ![Production](https://img.shields.io/badge/status-production-brightgreen)  
+- One-line impact: Reduced false positives by ~42% and processes 50k events/sec.  
+- Visual placeholder: `assets/project-fraud.svg` (replace with `project-fraud.gif` or PNG for demo)
 
 ---
 
-### Contact
-I'm open to collaboration and opportunities — drop me a message on LinkedIn or email me at you@example.com.
+## Pinned repositories (click a card to open the repo)
+The layout below is designed to behave like repo tiles. Each card is a direct link to the repo URL on GitHub (replace the href targets with your real repo links if different).
+
+<div style="display:flex;flex-wrap:wrap;gap:18px;margin-top:12px;">
+  <a href="https://github.com/debugger-sr/Rent-Prediction" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+    <div style="width:330px;border:1px solid #e6eef0;border-radius:10px;padding:14px;background:#ffffff;box-shadow:0 2px 4px rgba(12,22,26,0.04);">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <img src="assets/repo-logos/rent-prediction.svg" alt="Rent-Prediction" width="44" style="flex:0 0 44px;" />
+        <div style="flex:1;">
+          <div style="font-weight:600;color:#0b5d66;font-size:16px;margin-bottom:4px;">Rent-Prediction</div>
+          <div style="color:#5f6b72;font-size:13px;line-height:1.3;">Forked from yarradedeepya / Jupyter Notebook demo for housing rent estimation</div>
+        </div>
+      </div>
+      <div style="margin-top:10px;display:flex;align-items:center;justify-content:space-between;">
+        <div style="font-size:12px;color:#ff6b4a;display:flex;align-items:center;gap:8px;">
+          <span style="width:10px;height:10px;border-radius:50%;background:#ff6b4a;display:inline-block;"></span> Jupyter Notebook
+        </div>
+        <div style="font-size:12px;color:#94a3b8;">Public</div>
+      </div>
+    </div>
+  </a>
+
+  <a href="https://github.com/debugger-sr/Stock_prediction_Using-ANN" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+    <div style="width:330px;border:1px solid #e6eef0;border-radius:10px;padding:14px;background:#ffffff;box-shadow:0 2px 4px rgba(12,22,26,0.04);">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <img src="assets/repo-logos/stock-prediction.svg" alt="Stock Prediction" width="44" style="flex:0 0 44px;" />
+        <div style="flex:1;">
+          <div style="font-weight:600;color:#0b5d66;font-size:16px;margin-bottom:4px;">Stock_prediction_Using-ANN</div>
+          <div style="color:#5f6b72;font-size:13px;line-height:1.3;">ANN based stock prediction demo (not investment advice)</div>
+        </div>
+      </div>
+      <div style="margin-top:10px;display:flex;align-items:center;justify-content:space-between;">
+        <div style="font-size:12px;color:#ff6b4a;display:flex;align-items:center;gap:8px;">
+          <span style="width:10px;height:10px;border-radius:50%;background:#ff6b4a;display:inline-block;"></span> Python, Keras
+        </div>
+        <div style="font-size:12px;color:#94a3b8;">Public</div>
+      </div>
+    </div>
+  </a>
+
+  <a href="https://github.com/debugger-sr/task-tracker-app" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+    <div style="width:330px;border:1px solid #e6eef0;border-radius:10px;padding:14px;background:#ffffff;box-shadow:0 2px 4px rgba(12,22,26,0.04);">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <img src="assets/repo-logos/task-tracker-app.svg" alt="task-tracker-app" width="44" style="flex:0 0 44px;" />
+        <div style="flex:1;">
+          <div style="font-weight:600;color:#0b5d66;font-size:16px;margin-bottom:4px;">task-tracker-app</div>
+          <div style="color:#5f6b72;font-size:13px;line-height:1.3;">Small web app: task management using HTML/CSS/JS</div>
+        </div>
+      </div>
+      <div style="margin-top:10px;display:flex;align-items:center;justify-content:space-between;">
+        <div style="font-size:12px;color:#ff6b4a;display:flex;align-items:center;gap:8px;">
+          <span style="width:10px;height:10px;border-radius:50%;background:#ff6b4a;display:inline-block;"></span> HTML
+        </div>
+        <div style="font-size:12px;color:#94a3b8;">Public</div>
+      </div>
+    </div>
+  </a>
+
+  <a href="https://github.com/debugger-sr/Venkata_Portfolio" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+    <div style="width:330px;border:1px solid #e6eef0;border-radius:10px;padding:14px;background:#ffffff;box-shadow:0 2px 4px rgba(12,22,26,0.04);">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <img src="assets/repo-logos/venkata-portfolio.svg" alt="Venkata Portfolio" width="44" style="flex:0 0 44px;" />
+        <div style="flex:1;">
+          <div style="font-weight:600;color:#0b5d66;font-size:16px;margin-bottom:4px;">Venkata_Portfolio</div>
+          <div style="color:#5f6b72;font-size:13px;line-height:1.3;">Personal portfolio site (HTML/CSS)</div>
+        </div>
+      </div>
+      <div style="margin-top:10px;display:flex;align-items:center;justify-content:space-between;">
+        <div style="font-size:12px;color:#ff6b4a;display:flex;align-items:center;gap:8px;">
+          <span style="width:10px;height:10px;border-radius:50%;background:#ff6b4a;display:inline-block;"></span> HTML
+        </div>
+        <div style="font-size:12px;color:#94a3b8;">Public</div>
+      </div>
+    </div>
+  </a>
+
+  <a href="https://github.com/debugger-sr/Face-and-Eye-Detection-Using-OpenCV" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+    <div style="width:330px;border:1px solid #e6eef0;border-radius:10px;padding:14px;background:#ffffff;box-shadow:0 2px 4px rgba(12,22,26,0.04);">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <img src="assets/repo-logos/face-eye-detection.svg" alt="Face and Eye Detection" width="44" style="flex:0 0 44px;" />
+        <div style="flex:1;">
+          <div style="font-weight:600;color:#0b5d66;font-size:16px;margin-bottom:4px;">Face-and-Eye-Detection-Using-OpenCV</div>
+          <div style="color:#5f6b72;font-size:13px;line-height:1.3;">Real-time face & eye detection using OpenCV</div>
+        </div>
+      </div>
+      <div style="margin-top:10px;display:flex;align-items:center;justify-content:space-between;">
+        <div style="font-size:12px;color:#ff6b4a;display:flex;align-items:center;gap:8px;">
+          <span style="width:10px;height:10px;border-radius:50%;background:#ff6b4a;display:inline-block;"></span> Jupyter Notebook
+        </div>
+        <div style="font-size:12px;color:#94a3b8;">Public</div>
+      </div>
+    </div>
+  </a>
+</div>
 
 ---
 
-<!-- small footer -->
-<p align="center">
-  Built with ❤️ using GitHub profile README template — customize the colors and badges above to match your personal brand.
-</p>
+## How this works and how to update
+- Each card is an anchor (<a>) that links directly to the repo URL — clicking opens the repository in a new tab.
+- Logos: place each repo's small logo or an SVG in `/assets/repo-logos/` and name them:
+  - `rent-prediction.svg`
+  - `stock-prediction.svg`
+  - `task-tracker-app.svg`
+  - `venkata-portfolio.svg`
+  - `face-eye-detection.svg`
+- Skill/tool logos are in `/assets/logos/`. Use SVGs for crisp rendering.
+- To add/remove repos, copy a card block and update the href + text + image path.
+- Colors & spacing are kept simple: teal-accent headings, soft border, subtle shadow, compact font sizes for readability.
+
+---
+
+If you'd like, send me:
+- the exact LinkedIn URL to wire into the header,
+- any repo links that differ from the ones I used, or
+- the real small logos / GIFs (I will place them in `/assets/` and update the README and push everything when you confirm: `Push README to my profile`).
