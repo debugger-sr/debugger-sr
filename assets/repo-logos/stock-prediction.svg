@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="64" viewBox="0 0 160 64">
+  <rect width="160" height="64" rx="8" fill="#fffaf8"/>
+  <g transform="translate(16,16)">
+    <rect width="32" height="32" rx="6" fill="#ffb85c"/>
+    <text x="44" y="22" font-family="Segoe UI, Roboto, sans-serif" font-size="14" fill="#0f1720">Stock ANN</text>
+  </g>
+</svg>
