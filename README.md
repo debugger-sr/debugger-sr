@@ -1,4 +1,4 @@
-```markdown
+
 <!-- header: animated greeting -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1000&color=0A84FF&width=800&lines=Hi%2C%20I'm%20debugger-sr!%20👋;Full-stack%20engineer%20%7C%20DevOps%20enthusiast%20%7C%20Open%20source%20lover" alt="typing" />
@@ -91,4 +91,3 @@ I'm open to collaboration and opportunities — drop me a message on LinkedIn or
 <p align="center">
   Built with ❤️ using GitHub profile README template — customize the colors and badges above to match your personal brand.
 </p>
-```
